@@ -1,0 +1,2 @@
+# vcenter-vm-info
+ 
